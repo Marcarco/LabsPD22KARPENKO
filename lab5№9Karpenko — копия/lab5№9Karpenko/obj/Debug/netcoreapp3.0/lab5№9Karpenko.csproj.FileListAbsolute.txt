@@ -1,0 +1,11 @@
+C:\Users\Пользователь\source\repos\lab5№9Karpenko\lab5№9Karpenko\bin\Debug\netcoreapp3.0\lab5№9Karpenko.exe
+C:\Users\Пользователь\source\repos\lab5№9Karpenko\lab5№9Karpenko\bin\Debug\netcoreapp3.0\lab5№9Karpenko.deps.json
+C:\Users\Пользователь\source\repos\lab5№9Karpenko\lab5№9Karpenko\bin\Debug\netcoreapp3.0\lab5№9Karpenko.runtimeconfig.json
+C:\Users\Пользователь\source\repos\lab5№9Karpenko\lab5№9Karpenko\bin\Debug\netcoreapp3.0\lab5№9Karpenko.runtimeconfig.dev.json
+C:\Users\Пользователь\source\repos\lab5№9Karpenko\lab5№9Karpenko\bin\Debug\netcoreapp3.0\lab5№9Karpenko.dll
+C:\Users\Пользователь\source\repos\lab5№9Karpenko\lab5№9Karpenko\bin\Debug\netcoreapp3.0\lab5№9Karpenko.pdb
+C:\Users\Пользователь\source\repos\lab5№9Karpenko\lab5№9Karpenko\obj\Debug\netcoreapp3.0\lab5№9Karpenko.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\lab5№9Karpenko\lab5№9Karpenko\obj\Debug\netcoreapp3.0\lab5№9Karpenko.AssemblyInfoInputs.cache
+C:\Users\Пользователь\source\repos\lab5№9Karpenko\lab5№9Karpenko\obj\Debug\netcoreapp3.0\lab5№9Karpenko.AssemblyInfo.cs
+C:\Users\Пользователь\source\repos\lab5№9Karpenko\lab5№9Karpenko\obj\Debug\netcoreapp3.0\lab5№9Karpenko.dll
+C:\Users\Пользователь\source\repos\lab5№9Karpenko\lab5№9Karpenko\obj\Debug\netcoreapp3.0\lab5№9Karpenko.pdb
